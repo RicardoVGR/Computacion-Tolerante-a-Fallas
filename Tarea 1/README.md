@@ -1,31 +1,25 @@
 # Otras herramientas para el manejo de errores 
-
-## Descripción
-
-[Breve descripción del proyecto, su propósito, y objetivos. Aquí puedes explicar qué problema resuelve tu proyecto y por qué es importante.]
-
----
-
-## Tabla de Contenidos
-
-1. [Introducción](#introducción)
-2. [Instalación](#instalación)
-3. [Uso](#uso)
-4. [Contribuciones](#contribuciones)
-5. [Licencia](#licencia)
-6. [Créditos](#créditos)
-
----
-
-## Introducción
-
-[Aquí puedes añadir una introducción más detallada sobre el proyecto, su contexto, y cualquier información relevante para entender mejor su propósito.]
-
-## Instalación
-
-```bash
-# Instrucciones para instalar el proyecto.
-# Ejemplo para clonar el repositorio y configurar el entorno.
-git clone https://github.com/usuario/nombre-del-proyecto.git
-cd nombre-del-proyecto
-npm install
+### Valdivia Guerra Ricardo Emmanuel.
+### Computación Tolerante a Fallas.
+## Desarrollo ##
+### Sentry
+Sentry es una plataforma de monitoreo de errores que permite a los desarrolladores identificar y corregir errores en tiempo real
+* Características:
+* Captura de excepciones y errores no manejados.
+* Rastreo de pila detallado.
+* Integración con servicios como GitHub, Jira, y Slack.
+* Análisis de impacto para priorizar la corrección de errores.
+### Rollbar
+Rollbar es una herramienta de monitoreo de errores que proporciona visibilidad continua sobre la salud de la aplicación. Se enfoca en detectar, diagnosticar, y resolver errores en tiempo real
+* Características:
+* Notificaciones en tiempo real.
+* Agrupación automática de errores similares.
+* Integración con herramientas de CI/CD.
+* Soporte para múltiples lenguajes y marcos.
+### Airbrake
+La supervisión de errores y el control del rendimiento de Airbrake detectan todos los errores de su proyecto, los agrupan de forma inteligente y le indican el problema en el código para que pueda solucionarlo rápidamente antes de que los clientes se vean afectados.
+* Características: 
+* Informes de errores en tiempo real.
+* Integración con plataformas como GitHub y Slack.
+* Análisis de tendencias y métricas de rendimiento.
+* Soporte para múltiples lenguajes de programación.
