@@ -1,4 +1,4 @@
-# ![Project Logo](https://via.placeholder.com/150) Nombre del Proyecto
+# Otras herramientas para el manejo de errores 
 
 ## Descripción
 
