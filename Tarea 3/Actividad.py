@@ -24,10 +24,10 @@ def main():
     
     while True:
         print(f"Contador actual: {contador}")
-        accion = input("Ingrese 'a' para aumentar, 'q' para salir: ").strip().lower()
+        accion = input("Ingrese 'a' para aumentar, 's' para salir: ").strip().lower()
         if accion == 'a':
             contador += 1
-        elif accion == 'q':
+        elif accion == 's':
             guardar_estado(contador, nombre_archivo)
             break
         else:
@@ -35,4 +35,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-q
