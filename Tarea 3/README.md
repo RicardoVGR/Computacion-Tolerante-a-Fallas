@@ -58,3 +58,11 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+### Ejecución 
+Iniciamos el programa
+### ![imagen1](01.png)
+### Prueba
+Este programa almacenara el contador y al cerrar creara el archivo de recuperacion
+### ![imagen3](03.png)
+Al volver a abrirlo este continuara donde se quedo el contador
+### ![imagen4](04.png)
